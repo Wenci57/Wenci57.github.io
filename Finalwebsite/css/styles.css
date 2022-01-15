@@ -7765,6 +7765,7 @@ textarea.form-control-lg {
 }
 
 .text-white {
+  font-size: 28pt;
   --bs-text-opacity: 1;
   color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
 }
@@ -11306,7 +11307,7 @@ body {
 }
 
 .text-white-75 {
-  font-size: 25pt;
+  font-size: 24pt;
   color: rgba(255, 255, 255, 0.75) !important;
 }
 
@@ -11405,9 +11406,9 @@ header.masthead {
 
 @media (min-width: 992px) {
   header.masthead {
-    height: 35.8rem;
+    height: 40rem;
     min-height: 35rem;
-    padding-top: 4.5rem;
+    padding-top: 5rem;
     padding-bottom: 0;
   }
 }
